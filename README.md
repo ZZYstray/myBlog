@@ -10,33 +10,22 @@
 
 整个博客模板是基于[Vue.js](https://cn.vuejs.org/)+[webpack](https://www.webpackjs.com/)开发的，这是一份单页面的项目（PS：所有的数据和图片等等都是测试的，我随机放上去的，无任何网络请求）。
 
-当然你也可以抽取出来作为多页面的项目，你也可以只抽取其中的CSS，你也可以借鉴项目的结构开发自己的项目，你也可以课余时间拿来练手，帮我改进项目。
-
-我的博客：[唐益达的博客(戳我直达)](http://www.tangyida.top)，欢迎大家提出意见与交流留言谢谢。
 
 ## 预览
 
 #### 一、主页
 
-![](https://github.com/xdnloveme/Vue-Tangyida-blog/blob/master/src/assets/image/markdown/mark2.png?raw=true)
 
 #### 二、博客列表
 
-![](https://raw.githubusercontent.com/xdnloveme/Vue-Tangyida-blog/master/src/assets/image/markdown/mark4.png)
 
 #### 三、生活版面
-
-![](https://raw.githubusercontent.com/xdnloveme/Vue-Tangyida-blog/master/src/assets/image/markdown/mark7.png)
-
 #### 四、博文详细
-
-![](https://raw.githubusercontent.com/xdnloveme/Vue-Tangyida-blog/master/src/assets/image/markdown/mark8.png)
 
 
 
 #### 五、关于我，留言
 
-![](https://raw.githubusercontent.com/xdnloveme/Vue-Tangyida-blog/master/src/assets/image/markdown/mark9.png)
 
 ## 开始
 
